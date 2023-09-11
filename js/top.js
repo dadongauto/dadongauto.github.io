@@ -1,0 +1,14 @@
+document.writeln(" <div id=\"top\">");
+document.writeln("        <div class=\"top_logo\"><img src=\"images/logo.png\" /> <div class=\"top_img\"><img src=\"images/linian.png\" /></div></div>");
+document.writeln("    </div>");
+document.writeln("");
+document.writeln("    <div id=\"top_menu\">");
+document.writeln("         <div class=\"top_text\">");
+document.writeln("           <a href=\"home.html\">首页</a>　　　");
+document.writeln("           <a href=\"about.html\">了解大东</a>　　　");
+document.writeln("           <a href=\"service.html\">服务范围</a>　　　");
+document.writeln("           <a href=\"alliance.html\">合作联盟</a>　　　");
+document.writeln("           <a href=\"sales.html\">活动专区</a>　　　");
+document.writeln("           <a href=\"contact.html\">联系我们</a>");
+document.writeln("          </div>");
+document.writeln("    </div>");

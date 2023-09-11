@@ -1,0 +1,133 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.dlddqc.com/wap" resolutions="1x,2x" timestamp="1458889008603">
+  <folder name="css">
+    <file name="site_global.css" crc="3989987892"/>
+    <file name="master_a-__.css" crc="4137972900" ref="about:sales:index:service"/>
+    <file name="about.css" crc="4202294722" ref="about"/>
+    <file name="sales.css" crc="3821694160" ref="sales"/>
+    <file name="index.css" crc="440607619" ref="index"/>
+    <file name="service.css" crc="520768222" ref="service"/>
+  </folder>
+  <folder name="assets">
+    <file name="d1.jpg" crc="3963175353" seo="true" mt="1436449258000"/>
+    <file name="d2.jpg" crc="261898884" seo="true" mt="1436449247000"/>
+    <file name="d3.jpg" crc="3959596512" seo="true" mt="1436449232000"/>
+    <file name="d4.jpg" crc="19893473" seo="true" mt="1436449274000"/>
+    <file name="d5.jpg" crc="161062774" seo="true" mt="1436449300000"/>
+    <file name="d6.jpg" crc="3993550137" seo="true" mt="1436449330000"/>
+    <file name="d7.jpg" crc="4053314560" seo="true" mt="1436449346000"/>
+    <file name="d8.jpg" crc="3821258848" seo="true" mt="1436449360000"/>
+    <file name="d9.jpg" crc="532731918" seo="true" mt="1436449377000"/>
+    <file name="d_1.jpg" crc="441619525" seo="true" mt="1436440693000"/>
+    <file name="d_2.jpg" crc="391703444" seo="true" mt="1436440674000"/>
+    <file name="d_3.jpg" crc="3865393577" seo="true" mt="1436440655000"/>
+    <file name="d_4.jpg" crc="107246040" seo="true" mt="1436440643000"/>
+    <file name="d_5.jpg" crc="4163201963" seo="true" mt="1436440615000"/>
+    <file name="d_6.jpg" crc="4234560692" seo="true" mt="1436440606000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:about:service:sales"/>
+    <file name="museutils.js" crc="275725342" ref="index:about:service:sales"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:about:service:sales"/>
+    <file name="webpro.js" crc="3883484123" ref="index:about"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index:about"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index:about"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index:about"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.jpg" crc="331557428" seo="true" ref="index"/>
+    <file name="logo_2x.jpg" crc="4238765806" seo="true" ref="index"/>
+    <file name="an-3.jpg" crc="4221457583" seo="true" ref="index"/>
+    <file name="an-3_2x.jpg" crc="506879444" seo="true" ref="index"/>
+    <file name="an-2.jpg" crc="3857167521" seo="true" ref="index"/>
+    <file name="an-2_2x.jpg" crc="92936488" seo="true" ref="index"/>
+    <file name="an-1.jpg" crc="3831981305" seo="true" ref="index"/>
+    <file name="an-1_2x.jpg" crc="255363530" seo="true" ref="index"/>
+    <file name="sy-1.jpg" crc="399692724" seo="true" ref="index"/>
+    <file name="sy-2.jpg" crc="87569862" seo="true" ref="index"/>
+    <file name="sy-3.jpg" crc="3928683691" seo="true" ref="index"/>
+    <file name="sy-4.jpg" crc="95349752" seo="true" ref="index"/>
+    <file name="sy-5.jpg" crc="3951073116" seo="true" ref="index"/>
+    <file name="sy-6.jpg" crc="417478519" seo="true" ref="index"/>
+    <file name="menu.jpg" crc="88203778" seo="true" ref="about:service:sales"/>
+    <file name="menu_2x.jpg" crc="4073821927" seo="true" ref="about:service:sales"/>
+    <file name="dd.png" crc="3774290948" seo="true" ref="about"/>
+    <file name="dd_2x.png" crc="108290168" seo="true" ref="about"/>
+    <file name="pic-1.jpg" crc="61097050" seo="true" ref="about"/>
+    <file name="pic-1_2x.jpg" crc="4211766536" seo="true" ref="about"/>
+    <file name="pic-2.jpg" crc="330508180" seo="true" ref="about"/>
+    <file name="pic-2_2x.jpg" crc="4171303355" seo="true" ref="about"/>
+    <file name="pic-3.jpg" crc="3843895805" seo="true" ref="about"/>
+    <file name="pic-3_2x.jpg" crc="3995935613" seo="true" ref="about"/>
+    <file name="pic-4.jpg" crc="514090087" seo="true" ref="about"/>
+    <file name="pic-4_2x.jpg" crc="3766551470" seo="true" ref="about"/>
+    <file name="pic-5.jpg" crc="4063280697" seo="true" ref="about"/>
+    <file name="pic-5_2x.jpg" crc="4156969175" seo="true" ref="about"/>
+    <file name="pic-6.jpg" crc="298001776" seo="true" ref="about"/>
+    <file name="pic-6_2x.jpg" crc="4015152222" seo="true" ref="about"/>
+    <file name="hz.png" crc="513294150" seo="true" ref="about"/>
+    <file name="hz_2x.png" crc="338164679" seo="true" ref="about"/>
+    <file name="alliance_pic01.jpg" crc="455213127" seo="true" ref="about"/>
+    <file name="alliance_pic01_2x.jpg" crc="65728537" seo="true" ref="about"/>
+    <file name="alliance_pic02.jpg" crc="169994167" seo="true" ref="about"/>
+    <file name="alliance_pic02_2x.jpg" crc="72521285" seo="true" ref="about"/>
+    <file name="alliance_pic03.jpg" crc="3808620163" seo="true" ref="about"/>
+    <file name="alliance_pic03_2x.jpg" crc="467857373" seo="true" ref="about"/>
+    <file name="alliance_pic04.jpg" crc="282630417" seo="true" ref="about"/>
+    <file name="alliance_pic04_2x.jpg" crc="241939995" seo="true" ref="about"/>
+    <file name="alliance_pic05.jpg" crc="4063193210" seo="true" ref="about"/>
+    <file name="alliance_pic05_2x.jpg" crc="4009383478" seo="true" ref="about"/>
+    <file name="alliance_pic06.jpg" crc="4047563133" seo="true" ref="about"/>
+    <file name="alliance_pic06_2x.jpg" crc="3803621572" seo="true" ref="about"/>
+    <file name="alliance_pic07.jpg" crc="3903349033" seo="true" ref="about"/>
+    <file name="alliance_pic07_2x.jpg" crc="244828623" seo="true" ref="about"/>
+    <file name="alliance_pic08.jpg" crc="510507285" seo="true" ref="about"/>
+    <file name="alliance_pic08_2x.jpg" crc="461247829" seo="true" ref="about"/>
+    <file name="alliance_pic09.jpg" crc="4101847084" seo="true" ref="about"/>
+    <file name="alliance_pic09_2x.jpg" crc="3936473558" seo="true" ref="about"/>
+    <file name="alliance_logo.jpg" crc="215068863" seo="true" ref="about"/>
+    <file name="alliance_logo_2x.jpg" crc="166089440" seo="true" ref="about"/>
+    <file name="add.png" crc="3865299103" seo="true" ref="about:service:sales"/>
+    <file name="add_2x.png" crc="3996267836" seo="true" ref="about:service:sales"/>
+    <file name="code.png" crc="3983556981" seo="true" ref="about:service:sales"/>
+    <file name="a-6.jpg" crc="3949929084" seo="true" ref="about"/>
+    <file name="a-6_2x.jpg" crc="451361409" seo="true" ref="about"/>
+    <file name="a-3.jpg" crc="4128917238" seo="true" ref="about"/>
+    <file name="a-3_2x.jpg" crc="4293337400" seo="true" ref="about"/>
+    <file name="a-5.jpg" crc="423039690" seo="true" ref="about"/>
+    <file name="a-5_2x.jpg" crc="87830026" seo="true" ref="about"/>
+    <file name="a-1.jpg" crc="4138601486" seo="true" ref="about"/>
+    <file name="a-1_2x.jpg" crc="4201825286" seo="true" ref="about"/>
+    <file name="a-2.jpg" crc="4110635835" seo="true" ref="about"/>
+    <file name="a-2_2x.jpg" crc="473373839" seo="true" ref="about"/>
+    <file name="a-4.jpg" crc="4118460145" seo="true" ref="about"/>
+    <file name="a-4_2x.jpg" crc="4166514282" seo="true" ref="about"/>
+    <file name="top-1.jpg" crc="4148890072" seo="true" ref="about"/>
+    <file name="top-1_2x.jpg" crc="4079878131" seo="true" ref="about"/>
+    <file name="ico.png" crc="4090128261" seo="true" ref="about:service"/>
+    <file name="ico_2x.png" crc="211526122" seo="true" ref="about:service"/>
+    <file name="fanwei.jpg" crc="330438173" seo="true" ref="service"/>
+    <file name="fanwei_2x.jpg" crc="3827184583" seo="true" ref="service"/>
+    <file name="fw.png" crc="3957166285" seo="true" ref="service"/>
+    <file name="fw_2x.png" crc="430853837" seo="true" ref="service"/>
+    <file name="qcyh.png" crc="7478605" seo="true" ref="service"/>
+    <file name="qcyh_2x.png" crc="4243608074" seo="true" ref="service"/>
+    <file name="mrzs.png" crc="316824754" seo="true" ref="service"/>
+    <file name="mrzs_2x.png" crc="3947161320" seo="true" ref="service"/>
+    <file name="qccs.png" crc="4227594623" seo="true" ref="service"/>
+    <file name="qccs_2x.png" crc="4206214047" seo="true" ref="service"/>
+    <file name="zxwx.png" crc="4292424195" seo="true" ref="service"/>
+    <file name="zxwx_2x.png" crc="398589610" seo="true" ref="service"/>
+    <file name="top-2.jpg" crc="3781263294" seo="true" ref="service"/>
+    <file name="top-2_2x.jpg" crc="4226926642" seo="true" ref="service"/>
+    <file name="huodong-1.jpg" crc="4137885898" seo="true" ref="sales"/>
+    <file name="huodong-1_2x.jpg" crc="3813342572" seo="true" ref="sales"/>
+    <file name="hdimg-01.jpg" crc="4074430423" seo="true" ref="sales"/>
+    <file name="hdimg-01_2x.jpg" crc="4110177189" seo="true" ref="sales"/>
+    <file name="huodong-6.jpg" crc="3914700830" seo="true" ref="sales"/>
+    <file name="huodong-6_2x.jpg" crc="4027759107" seo="true" ref="sales"/>
+  </folder>
+  <file name="index.html" crc="494373912" seo="true" mt="1448329677364" redirect="true"/>
+  <file name="about.html" crc="4247577113" seo="true" mt="1448329662841" redirect="true"/>
+  <file name="service.html" crc="4059512911" seo="true" mt="1448329662841" redirect="true"/>
+  <file name="sales.html" crc="4105715689" seo="true" mt="1458888960022" redirect="true"/>
+</manifest>
