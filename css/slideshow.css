@@ -30,7 +30,8 @@ ul, li { list-style: none; }
 .slideshow SPAN.title { text-indent: 0px; }
 .block { margin: 0;position: relative; }
 #frameHlicAe { margin: 0px !important; border: 0px !important; }
-.comiis_wrap960, .comiis_wrapad { margin: 0 auto; width: 960px; }
+.comiis_wrap960 { margin: 0 auto; width: 960px; }
+.comiis_wrapad { margin: 0 auto; width: 285px; }
 .comiis_wrapad { margin-top: 10px; }
 .comiis_wrapad { overflow: hidden; }
     .comiis_wrapad img { float: left; margin-top: 0px; }
