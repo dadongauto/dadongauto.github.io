@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.dlddqc.com/wap" resolutions="1x,2x" timestamp="1458889008603">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://dadongauto.github.io//wap" resolutions="1x,2x" timestamp="1458889008603">
   <folder name="css">
     <file name="site_global.css" crc="3989987892"/>
     <file name="master_a-__.css" crc="4137972900" ref="about:sales:index:service"/>
