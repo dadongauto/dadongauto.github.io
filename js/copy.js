@@ -1,10 +1,10 @@
 document.writeln("<div class=\"copy_line\"></div>");
 document.writeln("    <div class=\"copy_box\">");
-document.writeln("         <div class=\"copy_logo\"><img src=\"images/logo-BW.png\" /></div>");
+document.writeln("         <div class=\"copy_logo\"><img src=\"https://cdn.jsdelivr.net/gh/dadongauto/dadongauto.github.io@main/images/logo-BW.png\" /></div>");
 document.writeln("         <div class=\"copy_text\">");
 var year = new Date().getUTCFullYear();
 document.writeln(`            Copyright©2000-${year} https://dadongauto.github.io/ All Rights Reserved.<br /> 地址：大连市甘井子怡宁路23号&nbsp;&nbsp;电话：18840840111&nbsp;&nbsp;邮箱：dlddqc@126.com`);
 document.writeln("         </div>");
-document.writeln("         <div class=\"copy_code\"><img src=\"images/code.png\" /></div>");
+document.writeln("         <div class=\"copy_code\"><img src=\"https://cdn.jsdelivr.net/gh/dadongauto/dadongauto.github.io@main/images/code.png\" /></div>");
 document.writeln("    ");
 document.writeln("    </div>");

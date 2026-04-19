@@ -1,5 +1,5 @@
 document.writeln(" <div id=\"top\">");
-document.writeln("        <div class=\"top_logo\"><img src=\"images/logo.png\" /> <div class=\"top_img\"><img src=\"images/linian.png\" /></div></div>");
+document.writeln("        <div class=\"top_logo\"><img src=\"https://cdn.jsdelivr.net/gh/dadongauto/dadongauto.github.io@main/images/logo.png\" /> <div class=\"top_img\"><img src=\"https://cdn.jsdelivr.net/gh/dadongauto/dadongauto.github.io@main/images/linian.png\" /></div></div>");
 document.writeln("    </div>");
 document.writeln("");
 document.writeln("    <div id=\"top_menu\">");
